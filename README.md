@@ -21,5 +21,5 @@ No .ytd editing needed — it uses runtime texture replacement, so it's fully dr
 - You can swap any image by replacing the PNG in `images/` and restarting the resource.
 
 ## Credits
-- Pack prepared By Jamessucksatlife.
+- Pack made by Jamessucksatlife.
 - Textures are simplified California-style designs for RP use.
